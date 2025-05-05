@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/secretiveshell-mcp-timeserver-badge.png)](https://mseep.ai/app/secretiveshell-mcp-timeserver)
+
 # MCP-timeserver
 
 A simple MCP server that exposes datetime information to agentic systems and chat REPLs
